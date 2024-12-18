@@ -1,0 +1,8 @@
+.result {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .result.show {
+    opacity: 1;
+  }
+  
